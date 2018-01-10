@@ -43,10 +43,10 @@
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
-    "jscs": "^1.6.1",
+    "jscs": "^3.0.7",
     "jshint": "^2.5.3",
-    "mocha": "^1.21.4",
-    "sinon": "^1.10.3"
+    "mocha": "^4.1.0",
+    "sinon": "^4.1.4"
   },
   "optionalDependencies": {},
   "engines": {
