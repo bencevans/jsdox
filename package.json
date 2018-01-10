@@ -37,8 +37,8 @@
   },
   "dependencies": {
     "jsdoc3-parser": "^1.0.3",
-    "mustache": "^0.8.2",
-    "optimist": "~0.3.4",
+    "mustache": "^2.3.0",
+    "optimist": "^0.6.1",
     "q": "^1.0.1"
   },
   "devDependencies": {
