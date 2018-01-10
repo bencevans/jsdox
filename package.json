@@ -13,7 +13,7 @@
   "license": "MIT",
   "name": "@bencevans/jsdox",
   "description": "Simple JSDoc 3 to Markdown generator",
-  "version": "0.4.10",
+  "version": "0.4.11",
   "repository": {
     "type": "git",
     "url": "git://github.com/sutoiku/jsdox.git"
